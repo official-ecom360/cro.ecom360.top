@@ -5410,3 +5410,8 @@ textarea.form-control {
       width: 20px; /* Adjust the width for mobile view */
   }
 }
+@media only screen and ( min-width: 1150px) {
+  .display-3{
+    font-size: calc(2.25rem) !important;
+  }
+}
